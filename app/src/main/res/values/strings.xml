@@ -2,4 +2,12 @@
 <resources>
     <string name="app_name">Blackom</string>
     <string name="special_use_fgs_subtype">Maintains a user-started VPN tunnel and a local NetShare proxy for tethered clients.</string>
+    <string name="tunnel_channel_name">Tunnel</string>
+    <string name="tunnel_channel_description">Shows whether the VPN tunnel is connecting, connected, or stopping.</string>
+    <string name="tunnel_notification_title">Blackom tunnel</string>
+    <string name="tunnel_action_stop">Stop</string>
+    <string name="tunnel_state_idle">Idle</string>
+    <string name="tunnel_state_connecting">Connecting</string>
+    <string name="tunnel_state_connected">Connected</string>
+    <string name="tunnel_state_disconnecting">Disconnecting</string>
 </resources>
