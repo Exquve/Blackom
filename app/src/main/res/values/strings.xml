@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Blackom</string>
+    <string name="special_use_fgs_subtype">Maintains a user-started VPN tunnel and a local NetShare proxy for tethered clients.</string>
+</resources>
